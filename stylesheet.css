@@ -31,33 +31,32 @@ header{
     float:left;
     margin: 0px 5px 5px 200px;   
 }
-
-
-.container {
-    width: 100%;
-    padding: 0 15px;
-    margin: 0 auto;
-    background-color:rgba(221, 238, 241, 0.7);
-  }
   
-  .top-wrapper {
+.top-wrapper {
+    width: 100%;
     padding: 180px 0 100px 0;
     background-image: url(https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/04/12/3701723007.jpg);
     background-size: cover;
     color: rgb(32, 9, 9);
     text-align: center;
+}
+.container {
+    padding: 10px 50px 50px 10px;
+    margin:  auto;
+    background-color:rgba(221, 238, 241, 0.7);
   }
   
   .top-wrapper h1 {
     opacity: 0.7;
     font-size: 45px;
     letter-spacing: 5px;
-    margin-bottom: 10px;
+    margin: 25px;
   }
   
   .top-wrapper p {
     opacity: 0.7;
-    margin-bottom: 3px;
+    margin: 15px 55px;
+    font-size: 20px;
   }
 
 .tableauPlaceholder {
