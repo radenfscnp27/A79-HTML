@@ -3,4 +3,34 @@
       width: 50%;
       margin-bottom: 50px;
     }
+    
+    .left {
+        width:80px;
+    }
+    .center {
+        width: 45%;
+        font-size: 32px;
+        margin: 35px 0px 0px 140px;   
+        
+    }
+    .right {
+        width: 20%;
+    }
+
+
+}
+
+@media (max-width:600px) {
+    .left {
+        width:80px;
+    }
+    .center {
+        width: 60%;
+        font-size: 32px;
+        margin: 35px 0px 0px 140px;   
+        ;
+    }
+    .right {
+        width: 20%;
+    }
   }
