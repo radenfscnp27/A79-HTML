@@ -174,7 +174,7 @@ p a {
   .team {
     font-size: 18px;
   }
-
+}
 
 @media screen and (max-width: 680px) {
   .nav-bar a {
