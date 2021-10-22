@@ -10,7 +10,7 @@ ham.addEventListener('click', event => {
     navbar.classList.toggle('nav-height')
 
 })
- let images = ['./img/img-1.jpg','./img/img-2.jpg','./img/img-3.jpg']
+ let images = ['img-1.jpg','img-2.jpg','img-3.jpg']
  let i = 0;
 function slide(){
     sliderImg.src = images[i]
